@@ -10,7 +10,7 @@ Note: Delta board only need one antenna.
 
 ![wifi](https://i.imgur.com/0i3tcAQ.gif)
 
-[Other ways to surf the Internet, click here.](C:\Users\admin\Desktop\3.5DOCS\Internet Connection.md)
+[Other ways to surf the Internet, click here.](content/alpha_edition/connectivity.md)
 
 ## Step 2: Connect Screen
 
